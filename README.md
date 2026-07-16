@@ -20,3 +20,5 @@ These logical constraints act as a "filter" that instantly collapses exponential
 I am currently a young independent researcher looking for academic mentors and developers to help formally prove the complexity bounds of this approach. 
 
 Feel free to open an issue, star the repository, or reach out!
+
+**Direct Contact / Doğrudan İletişim:** b2834871@gmail.com
